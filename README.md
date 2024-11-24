@@ -90,7 +90,8 @@ The program will prompt you to enter 5 numbers, reverse the input array, and dis
 
 ### Overview
 
-This program calculates the factorial of a user-inputted number. The program is written in assembly language and performs the following steps:
+This program calculates the factorial of a user-inputted number. The program performs the following steps:
+
 1. Displays a prompt asking the user to enter a number.
 2. Reads the user input and converts it from ASCII to an integer.
 3. Calculates the factorial of the number using recursion.
